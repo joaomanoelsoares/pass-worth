@@ -1,0 +1,16 @@
+{
+  "name": "pass-worth",
+  "version": "1.0.0",
+  "description": "Safe, solid and robust package where you can easily create safe passwords for your users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "João Manoel",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "jest": "^29.3.1",
+    "ts": "^0.2.2"
+  }
+}
