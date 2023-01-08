@@ -6,11 +6,21 @@
   "scripts": {
     "test": "jest"
   },
+  "files": [
+    "index.js"
+  ],
   "author": "João Manoel",
   "license": "ISC",
   "dependencies": {
     "crypto": "^1.0.1",
     "jest": "^29.3.1",
     "ts": "^0.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaomanoelsoares/pass-worth"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/yourOrganizationOrAccount"
   }
 }
